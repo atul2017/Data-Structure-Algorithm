@@ -8,6 +8,9 @@ Input Format
 The first argument is an integer array A.
 Output Format
 Return an integer array that is the sorted array A.
+
+TC=O(N)
+SC = O(N)
 */
 
 package Sorting;
