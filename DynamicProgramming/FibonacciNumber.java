@@ -12,6 +12,9 @@ Return an integer denoting the Ath Fibonacci number.
 
 TC = O(N)
 SC = O(N)
+
+This solution is with the space complexity with O(N) because we are using the Top Down or recursive approach which needs stack
+call of for each N element + N size of the array (buffer). This space complexity can be reduced to O(1) if we use the bottom up or iterative DP
  */
 
 
